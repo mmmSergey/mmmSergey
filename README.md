@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mmmSergey
 - 👀 I’m interested in JavaScript/PHP/MYSQL
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me mmmsergeyvetrov@gmail.com
 
 <!---
